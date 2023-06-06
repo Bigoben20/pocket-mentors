@@ -1,0 +1,7 @@
+{
+  "mentors": [
+    { "id": 1, "name": "Bigo", "title": "Frontend Dev", "summary": "I like frontend.", "location": "Antalya", "price": 150 },
+    { "id": 2, "name": "Yunus", "title": "Backend Dev", "summary": "I like backend too.", "location": "Kocaeli", "price": 150 },
+    { "id": 0, "name": "Musa", "title": "Senior Lead Dev", "summary": "I like backend.", "location": "Bursa", "price": 350 }
+  ]
+}
